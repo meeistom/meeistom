@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meeistom
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: using arms.
 
